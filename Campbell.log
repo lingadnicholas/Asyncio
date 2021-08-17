@@ -1,0 +1,5 @@
+INFO:root:Server Campbell opened connection on port 12603
+INFO:root:Server Campbell received message: WHATSAT a 10 5
+INFO:root:Client not in cache
+INFO:root:Invalid command received:
+INFO:root:Server Campbell output message: ? WHATSAT a 10 5
